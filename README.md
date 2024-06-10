@@ -11,6 +11,7 @@
   </div>
 
   <h3 align="center">Sitio Web Moderno UI/UX</h3>
+</div>
 
 ## 📋 <a name="table">Tabla de Contenidos</a>
 
